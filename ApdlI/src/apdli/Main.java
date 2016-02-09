@@ -3,7 +3,7 @@ package apdli;
 public class Main {
 	
 	public static void main(String[] args) {
-		System.out.println("Hola mundito");
+		System.out.println("Hola mundo");
 	}
 
 }
